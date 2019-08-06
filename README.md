@@ -1,1 +1,2 @@
-# nanopore_pipeline
+# Nanopore pipeline
+Workflow for nanopore sequencing
